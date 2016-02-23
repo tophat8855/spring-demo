@@ -1,0 +1,12 @@
+build/
+.gradle
+.idea
+*.sw*
+*.iml
+*.iws
+/target
+*.class
+.DS_Store
+bin/
+gen/
+.gradletasknamecache
